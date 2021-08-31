@@ -1,6 +1,5 @@
 header{
-    background-color: rgb(78, 78, 235);
-    height: 100px;
+    background-color: rgb(107, 161, 241);
     background-image: url(img/pattern.png);
     }
 
@@ -16,7 +15,7 @@ h1{
     font-size: 50px;
 }
 
-.first-row{
+.subtitle{
     font-family: 'Roboto Slab', serif;
     color: darkgray;
     
@@ -26,5 +25,46 @@ h1{
     color: rgb(59, 189, 233);
     
 }
+
+.yellow{
+    background-color: yellow;
+}
+
+th{
+    color: white;
+}
+
+.first-row{
+    background-color: rgb(91, 199, 241);
+}
+
+.row{
+    background-color: rgb(170, 229, 248);
+}
+
+.container{
+    background-image: url(img/monitor.jpg);
+    position:absolute;
+}
+
+.firstpic{
+    background-image: url(img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 210px;
+    color: white;
+}
+
+.secondpic{
+    background-image: url(img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 210px;
+    color: white;
+
+}
+
 
 
